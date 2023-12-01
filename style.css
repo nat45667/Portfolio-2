@@ -1,0 +1,66 @@
+  .intro{
+    font-size: 100px;
+    font-family: 'Radley', serif;
+}
+
+.hire{
+    margin-top: 200px;
+    font-family: 'Radley', serif;
+    color: #CFB79E;
+}
+
+.qoute{
+    margin-top: 50px;
+    font-family: 'Carlito', sans-serif;
+    font-size: 20px;
+}
+.hr{
+    border-bottom: 3px solid #BD8F53;
+}
+.Hello{
+    color: #CFB79E;
+}
+
+.back-vid video{ 
+    width: 100%;
+}
+.about{
+    font-family: 'Radley', serif;
+    color: #CFB79E;
+    padding-bottom: 20px;
+    padding-top: 300px;
+}
+
+.font{
+    font-family: 'Radley', serif;
+    font-size: 21px;
+}
+.font-1{
+    font-family: 'Carlito', sans-serif;
+    font-weight: bold;
+}
+.back{
+    font-size: 80px;
+    padding-top: 40px;
+    padding-bottom: 300px;
+    color:#CFB79E;
+    font-family: 'Radley', serif;
+}
+.vid{
+  padding: 50px;
+}
+.pad{
+    padding-top: 100px;
+}
+.fu{
+    font-size: 80px;
+    padding-top: 40px;
+    font-family: 'Radley', serif;
+}
+.per{
+    font-size: 20px;
+    font-family: 'Radley', serif;
+}
+.white{
+    color: #F4F1E8;
+}
